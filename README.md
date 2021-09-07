@@ -13,3 +13,5 @@ I like Vietnam because of its beautiful beaches, **it’s culture**, amazing foo
 * straw hat
 * sunglasses
 * cycling shoes
+
+[link for AboutMe](https://github.com/S5454528/assignment2-Amireddy/blob/main/AboutMe.md)
