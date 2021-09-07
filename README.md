@@ -28,3 +28,8 @@ The below table contains the Location and cost of the food and Drinks that I rec
 |Pellegrino    |Akash Miami|3.5$ |
 |Fuljar        |Akash Miami|4$   |
 
+----
+### Quotes of Life
+> Seek respect, not attention. It lasts longerz. - *Ziad Abdelnour*
+
+>You're Always One Choice Away from Changing Your Life. - *Mac Anderson*
