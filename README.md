@@ -15,3 +15,16 @@ I like Vietnam because of its beautiful beaches, **it’s culture**, amazing foo
 * cycling shoes
 
 [link for AboutMe](https://github.com/S5454528/assignment2-Amireddy/blob/main/AboutMe.md)
+
+---
+### Foods that I recommend someone to try
+
+The below table contains the Location and cost of the food and Drinks that I recommend
+
+| Foods/Drinks | Location | cost |
+|--------------|----------|------|
+|Tandoori fish |Akash Miami|5$   |
+|Baigan Bharta |Akash Miami|4$   |
+|Pellegrino    |Akash Miami|3.5$ |
+|Fuljar        |Akash Miami|4$   |
+
